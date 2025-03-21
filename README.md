@@ -13,3 +13,7 @@ Nos exercícios presentes neste repositório, foram aplicados os seguintes conce
 - **Classes e Objetos**: Definição de classes, criação de objetos e uso de métodos e atributos.
 - **Collections**: Uso de estruturas de dados como `ArrayList`, `HashMap`, etc.
 - **Interfaces e Classes Abstratas**: Implementação de interfaces e uso de classes abstratas.
+- 
+## Como Navegar pelos Exercícios
+
+Cada exercício está organizado em uma pasta separada, contendo o código-fonte.
